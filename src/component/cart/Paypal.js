@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 /* eslint-disable no-unused-vars */
 /* eslint-disable react/destructuring-assignment */
 import React from "react";

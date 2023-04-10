@@ -30,7 +30,6 @@ const SButton = styled.button`
 const Category = () => {
   // eslint-disable-next-line no-unused-vars
   const [category, setCategory] = useState([]);
-  // eslint-disable-next-line prettier/prettier
 
   useEffect(() => {
     async function handleCategory() {

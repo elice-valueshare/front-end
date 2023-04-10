@@ -148,7 +148,6 @@ function MemberOrderPrice({ cartItems, setCartItems }) {
   // 한화 달러화
   const handleOrder = async () => {
     const newData = {
-      // eslint-disable-next-line prettier/prettier
       phoneNumber: userInfo[0]?.phoneNumber,
       email: userInfo[0]?.email,
       name: userInfo[0]?.name,
