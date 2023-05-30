@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const AxiosInstance = axios.create({
-  baseURL: "http://52.79.73.94/api",
+  baseURL: "http://3.34.46.106/api/",
 });
 const excludeIncludeTokenURL = ["/login", "/register"];
 
